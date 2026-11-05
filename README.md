@@ -1,4 +1,4 @@
-# Inventory Audit — Internal Blind-Count MVP
+# Inventory Audit Tool
 
 Self-hosted, mobile-friendly inventory auditing application with team assignments, blind physical counts, administrator-only expected quantities, discrepancy reporting, recounts, CSV exports and a team leaderboard.
 
