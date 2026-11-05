@@ -1,0 +1,5 @@
+sku,description,location,expected_qty
+BRG-2048,Bearing Assembly,A-12,100
+BLT-1102,Hex Bolt,B-02,250
+NUT-3050,Lock Nut,B-03,80
+WSH-2040,Flat Washer,B-04,120
